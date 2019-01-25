@@ -1,0 +1,146 @@
+
+siwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0001
+  rotate: false
+  xy: 2, 398
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0002
+  rotate: false
+  xy: 2, 286
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0003
+  rotate: false
+  xy: 2, 174
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0004
+  rotate: false
+  xy: 2, 62
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0005
+  rotate: false
+  xy: 114, 398
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0006
+  rotate: false
+  xy: 114, 286
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0007
+  rotate: false
+  xy: 114, 174
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0008
+  rotate: false
+  xy: 114, 62
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0009
+  rotate: false
+  xy: 226, 398
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0010
+  rotate: false
+  xy: 226, 286
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0011
+  rotate: false
+  xy: 226, 174
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0012
+  rotate: false
+  xy: 226, 62
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0013
+  rotate: false
+  xy: 338, 398
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baozha0014
+  rotate: false
+  xy: 338, 286
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+huohua0001
+  rotate: true
+  xy: 338, 184
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+huohua0002
+  rotate: true
+  xy: 338, 82
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+huohua0003
+  rotate: false
+  xy: 338, 10
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+huohua0004
+  rotate: true
+  xy: 410, 184
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+huohua0005
+  rotate: false
+  xy: 410, 112
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+huohua0006
+  rotate: true
+  xy: 440, 10
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1

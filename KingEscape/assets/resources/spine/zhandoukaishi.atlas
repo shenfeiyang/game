@@ -1,0 +1,104 @@
+
+zhandoukaishi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguang
+  rotate: false
+  xy: 2, 46
+  size: 513, 172
+  orig: 513, 172
+  offset: 0, 0
+  index: -1
+saoguang0001
+  rotate: false
+  xy: 517, 183
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0002
+  rotate: false
+  xy: 157, 9
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0003
+  rotate: false
+  xy: 517, 146
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0004
+  rotate: false
+  xy: 669, 183
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0005
+  rotate: false
+  xy: 309, 9
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0006
+  rotate: false
+  xy: 517, 109
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0007
+  rotate: false
+  xy: 669, 146
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0008
+  rotate: false
+  xy: 821, 183
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0009
+  rotate: false
+  xy: 517, 72
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0010
+  rotate: false
+  xy: 669, 109
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0011
+  rotate: false
+  xy: 821, 146
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+saoguang0012
+  rotate: false
+  xy: 669, 72
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+zhandoukaishi
+  rotate: false
+  xy: 2, 2
+  size: 153, 42
+  orig: 153, 42
+  offset: 0, 0
+  index: -1

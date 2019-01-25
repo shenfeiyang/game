@@ -1,0 +1,69 @@
+
+wangzhefeibiao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wangzhefeibiao_0001
+  rotate: false
+  xy: 2, 146
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0002
+  rotate: false
+  xy: 2, 74
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0003
+  rotate: false
+  xy: 224, 146
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0004
+  rotate: false
+  xy: 2, 2
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0005
+  rotate: false
+  xy: 224, 74
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0006
+  rotate: false
+  xy: 446, 146
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0007
+  rotate: false
+  xy: 224, 2
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0008
+  rotate: false
+  xy: 446, 74
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+wangzhefeibiao_0009
+  rotate: false
+  xy: 668, 146
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
